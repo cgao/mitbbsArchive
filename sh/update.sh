@@ -1,0 +1,429 @@
+#!/bin/sh
+ python ../updateboard.py -b AC
+ python ../updateboard.py -b Accounting
+ python ../updateboard.py -b Actuary
+ python ../updateboard.py -b AHU
+ python ../updateboard.py -b Alabama
+ python ../updateboard.py -b Anhui
+ python ../updateboard.py -b Animals
+ python ../updateboard.py -b Anniversary
+ python ../updateboard.py -b Announcement
+ python ../updateboard.py -b AnthroLing
+ python ../updateboard.py -b Apple
+ python ../updateboard.py -b ApplyClub
+ python ../updateboard.py -b Archery
+ python ../updateboard.py -b Arizona
+ python ../updateboard.py -b ARKANSAS
+ python ../updateboard.py -b Arts
+ python ../updateboard.py -b AsiaNews
+ python ../updateboard.py -b astrology
+ python ../updateboard.py -b Astronomy
+ python ../updateboard.py -b AudioBook
+ python ../updateboard.py -b Australia
+ python ../updateboard.py -b AustraliaNews
+ python ../updateboard.py -b Automobile
+ python ../updateboard.py -b Avatar
+ python ../updateboard.py -b Aviation
+ python ../updateboard.py -b BackHome
+ python ../updateboard.py -b Badminton
+ python ../updateboard.py -b bagua
+ python ../updateboard.py -b Banquet
+ python ../updateboard.py -b Baseball
+ python ../updateboard.py -b Basketball
+ python ../updateboard.py -b BBI
+ python ../updateboard.py -b Beijing
+ python ../updateboard.py -b Belief
+ python ../updateboard.py -b Berkeley
+ python ../updateboard.py -b Billiards
+ python ../updateboard.py -b Biology
+ python ../updateboard.py -b BIT
+ python ../updateboard.py -b BJTU
+ python ../updateboard.py -b BJUT
+ python ../updateboard.py -b Blessing
+ python ../updateboard.py -b BMU
+ python ../updateboard.py -b BNU
+ python ../updateboard.py -b board
+ python ../updateboard.py -b Boston
+ python ../updateboard.py -b BrainTeaser
+ python ../updateboard.py -b BrainTrust
+ python ../updateboard.py -b Bridge
+ python ../updateboard.py -b BUAA
+ python ../updateboard.py -b BUCT
+ python ../updateboard.py -b BuildingWeb
+ python ../updateboard.py -b BUPT
+ python ../updateboard.py -b Business
+ python ../updateboard.py -b BusinessNews
+ python ../updateboard.py -b Canada
+ python ../updateboard.py -b CanadaNews
+ python ../updateboard.py -b Cantonese
+ python ../updateboard.py -b Carolinas
+ python ../updateboard.py -b CAU
+ python ../updateboard.py -b ChemEng
+ python ../updateboard.py -b Chemistry
+ python ../updateboard.py -b ChenLaw
+ python ../updateboard.py -b Chess
+ python ../updateboard.py -b Chicago
+ python ../updateboard.py -b China
+ python ../updateboard.py -b ChinaNews
+ python ../updateboard.py -b ChinaNews2
+ python ../updateboard.py -b ChinaStock
+ python ../updateboard.py -b Chinese
+ python ../updateboard.py -b ChineseClassics
+ python ../updateboard.py -b ChineseMed
+ python ../updateboard.py -b Chongqing
+ python ../updateboard.py -b ChuanYu
+ python ../updateboard.py -b CivilEngineering
+ python ../updateboard.py -b CivilSociety
+ python ../updateboard.py -b ClassicalMusic
+ python ../updateboard.py -b Classified
+ python ../updateboard.py -b Collectibles
+ python ../updateboard.py -b Collection
+ python ../updateboard.py -b Colorado
+ python ../updateboard.py -b Comic
+ python ../updateboard.py -b Complain
+ python ../updateboard.py -b Computation
+ python ../updateboard.py -b ComputerGraphics
+ python ../updateboard.py -b Connecticut
+ python ../updateboard.py -b CouchPotato
+ python ../updateboard.py -b CQU
+ python ../updateboard.py -b Craft
+ python ../updateboard.py -b CS
+ python ../updateboard.py -b CSU
+ python ../updateboard.py -b CUPL
+ python ../updateboard.py -b Cycling
+ python ../updateboard.py -b Dance
+ python ../updateboard.py -b Database
+ python ../updateboard.py -b DataSciences
+ python ../updateboard.py -b Detective
+ python ../updateboard.py -b DHU
+ python ../updateboard.py -b Donation
+ python ../updateboard.py -b DotNet
+ python ../updateboard.py -b Dreamer
+ python ../updateboard.py -b DUT
+ python ../updateboard.py -b DVD
+ python ../updateboard.py -b E-Sports
+ python ../updateboard.py -b EB23
+ python ../updateboard.py -b ebiz
+ python ../updateboard.py -b ECNU
+ python ../updateboard.py -b Economics
+ python ../updateboard.py -b ECUST
+ python ../updateboard.py -b Education
+ python ../updateboard.py -b EE
+ python ../updateboard.py -b EmergingNetworking
+ python ../updateboard.py -b Engineering
+ python ../updateboard.py -b EnglishChat
+ python ../updateboard.py -b Environmental
+ python ../updateboard.py -b Europe
+ python ../updateboard.py -b EuropeNews
+ python ../updateboard.py -b Exchange
+ python ../updateboard.py -b Faculty
+ python ../updateboard.py -b Family
+ python ../updateboard.py -b Fashion
+ python ../updateboard.py -b FDU
+ python ../updateboard.py -b Fengshui
+ python ../updateboard.py -b FieldHockey
+ python ../updateboard.py -b Fishing
+ python ../updateboard.py -b Fitness
+ python ../updateboard.py -b Flash
+ python ../updateboard.py -b FleaMarket
+ python ../updateboard.py -b Florida
+ python ../updateboard.py -b Food
+ python ../updateboard.py -b Football
+ python ../updateboard.py -b Fujian
+ python ../updateboard.py -b fyzlaw
+ python ../updateboard.py -b Gamble
+ python ../updateboard.py -b Game
+ python ../updateboard.py -b gardening
+ python ../updateboard.py -b GenderEquality
+ python ../updateboard.py -b Georgia
+ python ../updateboard.py -b GeoSpace
+ python ../updateboard.py -b Germany
+ python ../updateboard.py -b Ghost
+ python ../updateboard.py -b GiftCard
+ python ../updateboard.py -b Girl
+ python ../updateboard.py -b Go
+ python ../updateboard.py -b Golf
+ python ../updateboard.py -b Gowest
+ python ../updateboard.py -b GreatPit
+ python ../updateboard.py -b Guang_Xi
+ python ../updateboard.py -b GunsAndGears
+python ../updateboard.py -b HAINAN
+python ../updateboard.py -b Hardware
+python ../updateboard.py -b Hawaii
+python ../updateboard.py -b Headline
+python ../updateboard.py -b Heart
+python ../updateboard.py -b Hebei
+python ../updateboard.py -b Henan
+python ../updateboard.py -b HiFi
+python ../updateboard.py -b History
+python ../updateboard.py -b HIT
+python ../updateboard.py -b HKUST
+python ../updateboard.py -b HNU
+python ../updateboard.py -b Hockey
+python ../updateboard.py -b HongKong
+python ../updateboard.py -b hooyou
+python ../updateboard.py -b HouseRental
+python ../updateboard.py -b Hubei
+python ../updateboard.py -b HuNan
+python ../updateboard.py -b HuNaUuniversity
+python ../updateboard.py -b HUST
+python ../updateboard.py -b I140
+python ../updateboard.py -b I485
+python ../updateboard.py -b IDAHO
+python ../updateboard.py -b Immigration
+python ../updateboard.py -b ImmigrationNews
+python ../updateboard.py -b Indiana
+python ../updateboard.py -b InnerMongolia
+python ../updateboard.py -b Internet
+python ../updateboard.py -b Investment
+python ../updateboard.py -b Iowa
+python ../updateboard.py -b iShow
+python ../updateboard.py -b Japan
+python ../updateboard.py -b Java
+python ../updateboard.py -b Jiangnan
+python ../updateboard.py -b Jiangsu
+python ../updateboard.py -b Jiangxi
+python ../updateboard.py -b jingchenglaw
+python ../updateboard.py -b JLU
+python ../updateboard.py -b JobHunting
+python ../updateboard.py -b JobMarket
+python ../updateboard.py -b Joke
+python ../updateboard.py -b Kansas
+python ../updateboard.py -b Kentucky
+python ../updateboard.py -b Korea
+python ../updateboard.py -b Law
+python ../updateboard.py -b LeisureTime
+python ../updateboard.py -b LES
+python ../updateboard.py -b Linux
+python ../updateboard.py -b Literature
+python ../updateboard.py -b LiuLaw
+python ../updateboard.py -b Living
+python ../updateboard.py -b LocalInfo
+python ../updateboard.py -b LosAngeles
+python ../updateboard.py -b loseweight
+python ../updateboard.py -b Louisiana
+python ../updateboard.py -b Love
+python ../updateboard.py -b LoveNLust
+python ../updateboard.py -b LZU
+python ../updateboard.py -b Macromolecules
+python ../updateboard.py -b Mainland
+python ../updateboard.py -b man
+python ../updateboard.py -b MartialArts
+python ../updateboard.py -b Maryland
+python ../updateboard.py -b Mathematics
+python ../updateboard.py -b ME
+python ../updateboard.py -b MedicalCareer
+python ../updateboard.py -b MedicalDevice
+python ../updateboard.py -b Medicalpractice
+python ../updateboard.py -b Medicaltech
+python ../updateboard.py -b Medicine
+python ../updateboard.py -b Memory
+python ../updateboard.py -b Michigan
+python ../updateboard.py -b MiddleSchool
+python ../updateboard.py -b Midlife
+python ../updateboard.py -b Military
+python ../updateboard.py -b Military2
+python ../updateboard.py -b Minnesota
+python ../updateboard.py -b MiscNews
+python ../updateboard.py -b Mississippi
+python ../updateboard.py -b Missouri
+python ../updateboard.py -b MitbbsApp
+python ../updateboard.py -b MitbbsColumn
+python ../updateboard.py -b Mitbbs_Blog
+python ../updateboard.py -b mitOCEF
+python ../updateboard.py -b MJ
+python ../updateboard.py -b MobileDevelopment
+python ../updateboard.py -b Mod_CHN_Hist
+python ../updateboard.py -b Money
+python ../updateboard.py -b Montreal
+python ../updateboard.py -b Movie
+python ../updateboard.py -b Music
+python ../updateboard.py -b MusicPlayer
+python ../updateboard.py -b MyActivity
+python ../updateboard.py -b NanoST
+python ../updateboard.py -b NBA
+python ../updateboard.py -b NCAA
+python ../updateboard.py -b NCEPU
+python ../updateboard.py -b NCTU
+python ../updateboard.py -b Nebraska
+python ../updateboard.py -b NEU
+python ../updateboard.py -b Neuroscience
+python ../updateboard.py -b Nevada
+python ../updateboard.py -b NewBBS
+python ../updateboard.py -b NewJersey
+python ../updateboard.py -b NewMexico
+python ../updateboard.py -b NewYork
+python ../updateboard.py -b NewZealand
+python ../updateboard.py -b NextGeneration
+python ../updateboard.py -b NJU
+python ../updateboard.py -b NKU
+python ../updateboard.py -b NorthEast
+python ../updateboard.py -b notepad
+python ../updateboard.py -b Notice
+python ../updateboard.py -b NUAA
+python ../updateboard.py -b Nursing
+python ../updateboard.py -b NUST
+python ../updateboard.py -b NWPU
+python ../updateboard.py -b NWU
+python ../updateboard.py -b Ohio
+python ../updateboard.py -b Oklahoma
+python ../updateboard.py -b Olympics
+python ../updateboard.py -b OperaHouse
+python ../updateboard.py -b Oregon
+python ../updateboard.py -b Ottawa
+python ../updateboard.py -b OUC
+python ../updateboard.py -b Outdoors
+python ../updateboard.py -b Overseas
+python ../updateboard.py -b OverseasFocus
+python ../updateboard.py -b Paint_ball
+python ../updateboard.py -b paladin
+python ../updateboard.py -b PalmParadise
+python ../updateboard.py -b Parenting
+python ../updateboard.py -b PDA
+python ../updateboard.py -b PennySaver
+python ../updateboard.py -b pets
+python ../updateboard.py -b Pharmaceutical
+python ../updateboard.py -b Pharmacy
+python ../updateboard.py -b PHILADELPHIA
+python ../updateboard.py -b PhotoForum
+python ../updateboard.py -b PhotoGear
+python ../updateboard.py -b PhotoProcessing
+python ../updateboard.py -b Physics
+python ../updateboard.py -b Pics
+python ../updateboard.py -b Piebridge
+python ../updateboard.py -b Pilot
+python ../updateboard.py -b Pingpong
+python ../updateboard.py -b Pittsburgh
+python ../updateboard.py -b PKU
+python ../updateboard.py -b Poetry
+python ../updateboard.py -b PoliticalScience
+python ../updateboard.py -b PopNews
+python ../updateboard.py -b Postdoc
+python ../updateboard.py -b Programming
+python ../updateboard.py -b Prose
+python ../updateboard.py -b PsychoAnalysis
+python ../updateboard.py -b Psychology
+python ../updateboard.py -b Purdue
+python ../updateboard.py -b QDU
+python ../updateboard.py -b QiGong
+python ../updateboard.py -b Quant
+python ../updateboard.py -b QueerNews
+python ../updateboard.py -b Racing
+python ../updateboard.py -b Rainbow
+python ../updateboard.py -b Reader
+python ../updateboard.py -b Recommend
+python ../updateboard.py -b RegulatoryAffairs
+python ../updateboard.py -b Returnee
+python ../updateboard.py -b Reunion
+python ../updateboard.py -b RhodeIsland
+python ../updateboard.py -b RisingChina
+python ../updateboard.py -b Rock
+python ../updateboard.py -b RUC
+python ../updateboard.py -b Running
+python ../updateboard.py -b RuralChina
+python ../updateboard.py -b Salon
+python ../updateboard.py -b SanDiego
+python ../updateboard.py -b SanFrancisco
+python ../updateboard.py -b Science
+python ../updateboard.py -b SciFiction
+python ../updateboard.py -b ScitechNews
+python ../updateboard.py -b SCU
+python ../updateboard.py -b SCUT
+python ../updateboard.py -b SDU
+python ../updateboard.py -b Seattle
+python ../updateboard.py -b Security
+python ../updateboard.py -b SellAbroad
+python ../updateboard.py -b SEU
+python ../updateboard.py -b Sex
+python ../updateboard.py -b Sex2
+python ../updateboard.py -b Shaanxi
+python ../updateboard.py -b Shandong
+python ../updateboard.py -b Shanghai
+python ../updateboard.py -b Shanxi
+python ../updateboard.py -b shopping
+python ../updateboard.py -b Singapore
+python ../updateboard.py -b single
+python ../updateboard.py -b SJTU
+python ../updateboard.py -b Ski
+python ../updateboard.py -b Soccer
+python ../updateboard.py -b Sociology
+python ../updateboard.py -b Software
+python ../updateboard.py -b Sound_of_Music
+python ../updateboard.py -b Southwest
+python ../updateboard.py -b SportsNews
+python ../updateboard.py -b sqilaw
+python ../updateboard.py -b StartUp
+python ../updateboard.py -b Statistics
+python ../updateboard.py -b Stock
+python ../updateboard.py -b SUDA
+python ../updateboard.py -b SunLaw
+python ../updateboard.py -b Supershow
+python ../updateboard.py -b Swimming
+python ../updateboard.py -b Switzerland
+python ../updateboard.py -b SWJTU
+python ../updateboard.py -b sysop
+python ../updateboard.py -b Taiwan
+python ../updateboard.py -b talk
+python ../updateboard.py -b TAX
+python ../updateboard.py -b Tennessee
+python ../updateboard.py -b Tennis
+python ../updateboard.py -b test
+python ../updateboard.py -b TeX
+python ../updateboard.py -b Texas
+python ../updateboard.py -b TexasHoldem
+python ../updateboard.py -b TheStrait
+python ../updateboard.py -b Thoughts
+python ../updateboard.py -b THU
+python ../updateboard.py -b Tianjin
+python ../updateboard.py -b TJU
+python ../updateboard.py -b TongJi
+python ../updateboard.py -b TopArticle
+python ../updateboard.py -b Toronto
+python ../updateboard.py -b Translation
+python ../updateboard.py -b Travel
+python ../updateboard.py -b Tri
+python ../updateboard.py -b TrustInJesus
+python ../updateboard.py -b TVChinese
+python ../updateboard.py -b TVGame
+python ../updateboard.py -b UESTC
+python ../updateboard.py -b UMD
+python ../updateboard.py -b UnitedKingdom
+python ../updateboard.py -b Unix
+python ../updateboard.py -b USANews
+python ../updateboard.py -b USTB
+python ../updateboard.py -b USTC
+python ../updateboard.py -b Utah
+python ../updateboard.py -b Vancouver
+python ../updateboard.py -b Virginia
+python ../updateboard.py -b Visa
+python ../updateboard.py -b VolleyBall
+python ../updateboard.py -b vote
+python ../updateboard.py -b WashingtonDC
+python ../updateboard.py -b Watch
+python ../updateboard.py -b WaterWorld
+python ../updateboard.py -b WBCenter
+python ../updateboard.py -b WebRadio
+python ../updateboard.py -b WeddingBells
+python ../updateboard.py -b WeGreened
+python ../updateboard.py -b Weightlifting
+python ../updateboard.py -b Whisper
+python ../updateboard.py -b WHU
+python ../updateboard.py -b Windows
+python ../updateboard.py -b Wisconsin
+python ../updateboard.py -b Wisdom
+python ../updateboard.py -b WmGame
+python ../updateboard.py -b Working
+python ../updateboard.py -b WorldNews
+python ../updateboard.py -b Xibei
+python ../updateboard.py -b XiDian
+python ../updateboard.py -b XieLaw
+python ../updateboard.py -b Xiqu
+python ../updateboard.py -b XJTU
+python ../updateboard.py -b XML
+python ../updateboard.py -b XMU
+python ../updateboard.py -b yanglaw
+python ../updateboard.py -b yoga
+python ../updateboard.py -b Zhejiang
+python ../updateboard.py -b ZJU
+python ../updateboard.py -b ZSU
+python ../updateboard.py -b Zumba
